@@ -3,7 +3,7 @@ This clock is still in development</p>
 <p> <This clock is still in development</p>
 <p><img alt="DCFklok" height="450" src="DCFklok.jpg" /></p>
 This clock uses the DCF77-signal and display the received 
-bits.
+bits.</br>
 The software makes use of an algorithm that collects the readings in the loop 
 and does not use interrupts.
 In this way it collects 10,000 - 16,000 0 or 1 readings.
