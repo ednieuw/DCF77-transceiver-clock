@@ -5,12 +5,12 @@ This clock is still in development</p>
 This clock uses the DCF77-signal and display the received 
 bits.</br>
 The software makes use of an algorithm that collects the readings in the loop 
-and does not use interrupts.
-In this way it collects 10,000 - 16,000 0 or 1 readings.
+and does not use interrupts.</br>
+In this way it collects 10,000 - 16,000 0 or 1 readings.</br>
 The advantage of this methods ids that is smoothens spikes in the signal. It is 
-smaller than a library and can be easily debugged.
+smaller than a library and can be easily debugged.</br>
 It is not as good as the DCF77 library of Thijs Ellenbaas. It receives 80% of 
-the signals while the DCF77 library scores 90%.
+the signals while the DCF77 library scores 90%.</br>
 When both libraries are used together the efficiency&nbsp; is &gt;95%.
 The DCFtiny algorithm was developed to drive the LEDs of the clock. The clock 
 contains three rings of 8, 24 and 60 LEDs.
