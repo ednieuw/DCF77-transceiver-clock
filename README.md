@@ -1,6 +1,6 @@
 # DCFtiny-clock
-This clock is still in development</p>
-<p> <This clock is still in development</p>
+<p> This clock only needs a nice case</p>
+
 <p><img alt="DCFklok" height="450" src="DCFklok.jpg" /></p>
 This clock decodes the DCF77-signal and displays the received 
 bits.</br>
