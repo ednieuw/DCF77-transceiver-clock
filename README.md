@@ -1,6 +1,6 @@
 # DCF77 HC-12 Bluetooth transceiver clock
 
-<p><img alt="DCFklok" height="450" src="DCFklok.jpg" /></p>
+<p><img alt="DCFklok" height="450" src="DCF77transceiverclock.jpg" /></p>
 This clock decodes the DCF77-signal and displays the received 
 bits.</br>
 The software makes use of an algorithm that collects the readings without using interrupts.</br>
