@@ -18,7 +18,7 @@ The outer ring displays the received bits per minute. blue = 0 and red = 1.
 The middle ring display the signal efficiency per hour and the current hour with 
 a white LED.</br>
 The inner ring displays various parameters.</br>
-On top of the clock is a TM1637 display to show the current time.<br>
+On top of the clock is a TM1637 or HT16K33 display to show the current time.<br>
 A MAX7219 display is used to show the pulsewidth in msec, the time as it is decoded by the algorithm<br>
 and the decoding efficiency in time as a percentage.</br>
 The time is transmitted in the air with a HC12 transceiver.</br>
