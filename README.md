@@ -1,8 +1,8 @@
 # DCF77 HC-12 Bluetooth transceiver clock
 
 <p><img alt="DCFklok" height="450" src="DCF77transceiverclock.jpg" /></p>
-This clock decodes the DCF77-signal and displays the received 
-bits.</br>
+This clock decodes the DCF77-signal, displays the received 
+bits in WS2812 RGB rings and sends the time as a string into the ether with a HC-12 433MHz Wireless Serial Transceiver.</br>
 The software makes use of an algorithm that collects the readings without using interrupts.</br>
 In this program the processor is able to collect, in it spare time, over 30,000 per second of 0 or 1 readings.</br>
 Therefore no delays() can be used. The program demonstrates a method to avoid delays. </br>
