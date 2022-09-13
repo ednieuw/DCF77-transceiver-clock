@@ -1,10 +1,6 @@
 # DCF77 HC-12 Bluetooth transceiver clock
 
-<table width="200" border="0">
-  <tr>
-    <td class="auto-style1"><a href="../index.html">&lt;-- Back </a></td>
-    <td>&nbsp;</td>
-  </tr>
+<table  border="0">
   <tr>
     <td><img src="Etcetera/DCF77-HC12kastIMG_5675.JPG" width="450" height="600"></td>
     <td>
