@@ -9,7 +9,7 @@
   <tr class="auto-style1">
     <td>Front <span class="style7">(The colours of the LEDs are in real much more vivid) </span></td>
     <td>Inside the clock (3:55 hours later) <br>
-    The DCF77-receiver hangs 10 cm away from the signal interfering LEDs and segment displays </td>
+    The DCF77-receiver hangs 10 cm away from the signal interfering LEDs and segment displays</td>
   </tr>
 </table>
 <p class="auto-style1"><strong>Introduction </strong></p>
