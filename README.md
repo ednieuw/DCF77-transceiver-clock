@@ -320,7 +320,7 @@ The following pins are connected:
 <p class="auto-style1">&nbsp;</p>
 <p class="auto-style1"><br>
   More info about clocks and DCF77 here: <br>
-  <a href="https://ednieuw.home.xs4all.nl/Woordklok/index.html">https://ednieuw.home.xs4all.nl/Woordklok/index.html </a> </p>
+  <a href="https://ednieuw.nl/Woordklok/index.html">https://ednieuw.nl/Woordklok/index.html </a> </p>
 <p class="auto-style1">Ed Nieuwenhuys<br>
   13 September 2022<br><br>
 </p>
