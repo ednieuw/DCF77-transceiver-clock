@@ -2,9 +2,9 @@
 
 <table  border="0">
   <tr>
-    <td><img src="Etcetera/DCF77-HC12kastIMG_5675.JPG" width="450" height="600"></td>
+    <td><img src="Etcetera/DCF77-HC12kastIMG_5675.JPG" width="450" ></td>
     <td>
-	<img src="Etcetera/DCF77-HC12kastachterIMG_5695.JPG" width="450" height="600"></td>
+	<img src="Etcetera/DCF77-HC12kastachterIMG_5695.JPG" width="450" ></td>
   </tr>
   <tr class="auto-style1">
     <td>Front <span class="style7">(The colours of the LEDs are in real much more vivid) </span></td>
@@ -32,7 +32,7 @@ a signal that can be on or off (high or low). <br>
 That translates in respectively a 0 or 1 bit. <br>
 The time is decoded in a <a href="https://en.wikipedia.org/wiki/Binary-coded_decimal">binary-coded decimal</a> format as shown in the picture below. </p>
 <p class="auto-style1">
-<img src="Etcetera/dcf77-time-code-formatv22under.jpg" width="900" height="303"><br>
+<img src="Etcetera/dcf77-time-code-formatv22under.jpg" width="900" ><br>
   <br>
   The DCFNoInt-algorithm is sensitive for long delays() in the code. The sample program demonstrates a method to avoid delays. <br>
   An advantage of this non-interrupt method is it smoothens spikes in the signal and does not require filtering because it takes an average of the received positive pulses. <br>
@@ -320,11 +320,7 @@ The following pins are connected:
 <p class="auto-style1">&nbsp;</p>
 <p class="auto-style1"><br>
   More info about clocks and DCF77 here: <br>
-<<<<<<< Updated upstream
-  <a href="https://ednieuw.nl/Woordklok/index.html">https://ednieuw.nl/Woordklok/index.html </a> </p>
-=======
   <a href="https://ednieuw.com/Woordklok/index.html">https://ednieuw.com/Woordklok/index.html </a> </p>
->>>>>>> Stashed changes
 <p class="auto-style1">Ed Nieuwenhuys<br>
   13 September 2022<br><br>
 </p>
